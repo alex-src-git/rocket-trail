@@ -4,4 +4,4 @@ This is a little game I made in under 48 hours for a game jam titled “Game Mak
 
 [Play it here!](https://alex-src.itch.io/rocket-trail)
 
-![alt text](https://bitbucket.org/alex_src/game-makers-toolkit-game-jam-2018/src/master/Recordings/)
+![alt text](https://bitbucket.org/alex_src/game-makers-toolkit-game-jam-2018/src/master/Recordings/image_0000.png)
