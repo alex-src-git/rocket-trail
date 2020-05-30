@@ -5,6 +5,9 @@
 [Bb]uilds/
 Assets/AssetStoreTools*
 
+# Unity Recordings
+Recordings/
+
 # Visual Studio cache directory
 /.vs/
 
