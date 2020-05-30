@@ -1,6 +1,6 @@
 # Important!
 
-I wrote this game I wrote for a game jam, back when I was **way** less experienced at programming.
+I wrote this game for a game jam back when I was **way** less experienced at programming.
 
 The code is gnarly - please don't treat this as well writen code - but I've kept it here because I was proud of the game.
 
